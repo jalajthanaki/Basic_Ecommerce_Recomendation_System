@@ -17,4 +17,4 @@ We need the following dependencies.
 You need to run the jupyter notebook `Basic_content_based_recommendation_system.ipynb`
 
 ## credit
-The code of is inspired by the [Groveco's](https://github.com/groveco/content-engine) content based recommendation engine.
+The code of is this repository is inspired by the [Groveco's](https://github.com/groveco/content-engine) content based recommendation engine.
